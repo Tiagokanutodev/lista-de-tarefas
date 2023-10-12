@@ -1,0 +1,40 @@
+#list 
+{
+    list-style-type: none; 
+    text-align: center;  
+}
+
+#list li 
+{
+    cursor: pointer;
+    font-size: large;    
+}
+
+.completed 
+{
+    text-decoration: line-through; 
+    text-align: center;       
+}
+
+form input
+{
+    padding: 8px;   
+}
+
+form button
+{
+    padding: 8px;
+    background-color: rgb(188, 253, 123);
+    color: #000000;    
+}
+
+body
+{
+    background-color: rgb(246, 255, 252);  
+    padding: 24px;
+    text-align:text center;
+    text-align: center;
+}
+
+
+
